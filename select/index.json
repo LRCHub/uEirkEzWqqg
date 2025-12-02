@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ごはん食べヨ",
+  "base_artist": "Mega Shinnosuke",
+  "createdAt": "2025-12-02T04:05:12.108639Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ごはん食べヨ",
+      "artist": "Mega Shinnosuke",
+      "has_synced": false,
+      "path": "select/pl_01_ごはん食べヨ_Mega_Shinnosuke.txt"
+    }
+  ]
+}
